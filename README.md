@@ -1,2 +1,2 @@
-﻿# Verteilte-Systeme-
+﻿# Verteilte-Systeme
 - Im Ordner Schrödinger Programmiert Java habe ich ab Seite 450, die einzelnen Aufgaben zu Buch abearbeitet. Es gibt auch einige Ordner mit dem namen VO_Muster, diese stehen für Vorlesungs Musterlösung die mein Professor uns Vorgestellt hat. Ich wollte mir geren anschauen wie man die Thread unterschiedlich Programmieren kann, dabei wird man bemerken das wir in der Lösung meines Professors sehr mit Lambda Ausdrücken arbeiten. VO_Muster_Aufgabe_... stht für die Aufgabe aus dem Buch und die jeweilige Lösung meines Professors  
